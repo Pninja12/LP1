@@ -3,3 +3,13 @@ D:\LP1\Argumentos\obj\Debug\net6.0\Argumentos.GeneratedMSBuildEditorConfig.edito
 D:\LP1\Argumentos\obj\Debug\net6.0\Argumentos.AssemblyInfoInputs.cache
 D:\LP1\Argumentos\obj\Debug\net6.0\Argumentos.AssemblyInfo.cs
 D:\LP1\Argumentos\obj\Debug\net6.0\Argumentos.csproj.CoreCompileInputs.cache
+D:\LP1\Argumentos\bin\Debug\net6.0\Argumentos.exe
+D:\LP1\Argumentos\bin\Debug\net6.0\Argumentos.deps.json
+D:\LP1\Argumentos\bin\Debug\net6.0\Argumentos.runtimeconfig.json
+D:\LP1\Argumentos\bin\Debug\net6.0\Argumentos.dll
+D:\LP1\Argumentos\bin\Debug\net6.0\Argumentos.pdb
+D:\LP1\Argumentos\obj\Debug\net6.0\Argumentos.dll
+D:\LP1\Argumentos\obj\Debug\net6.0\refint\Argumentos.dll
+D:\LP1\Argumentos\obj\Debug\net6.0\Argumentos.pdb
+D:\LP1\Argumentos\obj\Debug\net6.0\Argumentos.genruntimeconfig.cache
+D:\LP1\Argumentos\obj\Debug\net6.0\ref\Argumentos.dll

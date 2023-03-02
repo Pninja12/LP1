@@ -9,7 +9,7 @@ namespace Argumentos
             Console.WriteLine("Hello, World!");
             for(int i = 0; i < 10; i++)
             {
-                Console.WriteLine("%d ", i);
+                Console.WriteLine("{0}", i);
             }
         }
     }
