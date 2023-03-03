@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\paulo\\.nuget\\packages\\": {}
+    "C:\\Users\\a22206205\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\LP1\\Argumentos\\Argumentos.csproj",
+      "projectUniqueName": "C:\\Users\\a22206205\\Desktop\\LP1\\LP1Semana01\\Argumentos\\Argumentos.csproj",
       "projectName": "Argumentos",
-      "projectPath": "D:\\LP1\\Argumentos\\Argumentos.csproj",
-      "packagesPath": "C:\\Users\\paulo\\.nuget\\packages\\",
-      "outputPath": "D:\\LP1\\Argumentos\\obj\\",
+      "projectPath": "C:\\Users\\a22206205\\Desktop\\LP1\\LP1Semana01\\Argumentos\\Argumentos.csproj",
+      "packagesPath": "C:\\Users\\a22206205\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\a22206205\\Desktop\\LP1\\LP1Semana01\\Argumentos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\paulo\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\a22206205\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

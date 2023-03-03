@@ -7,9 +7,9 @@ namespace Argumentos
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
-            for(int i = 0; i < 10; i++)
+            for(int i = 0; i < args; i++)
             {
-                Console.WriteLine("{0}", i);
+                Console.WriteLine(args[i]);
             }
         }
     }
