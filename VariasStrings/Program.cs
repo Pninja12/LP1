@@ -25,7 +25,7 @@ namespace VariasStrings
             Console.WriteLine(entre_aspas);
             Console.WriteLine(entre_aspas_verbatim);
             Console.WriteLine("A letra \"{0}\" escreve-se {1} em unicode", unicode, unicode_verbatim);
-            Console.WriteLine(o + l + a_acentuado + virgula + " " + t + u + d + o + " " + b + e + m + "? Este texto é todo feito em Unicode :)");
+            Console.WriteLine(o + l + a_acentuado + virgula + " " + t + u + d + o + " " + b + e + m + "? Este texto é todo feito em Unicode.");
         }
     }
 }
