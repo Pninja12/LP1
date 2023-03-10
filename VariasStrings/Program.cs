@@ -20,12 +20,17 @@ namespace VariasStrings
             string b = "\u0042";
             string e = "\u0045";
             string m = "\u004D";
-
+            double xx = 0.12345;
+            int ii = 18;
+            
             Console.WriteLine("Hello, World!");
             Console.WriteLine(entre_aspas);
             Console.WriteLine(entre_aspas_verbatim);
             Console.WriteLine("A letra \"{0}\" escreve-se {1} em unicode", unicode, unicode_verbatim);
             Console.WriteLine(o + l + a_acentuado + virgula + " " + t + u + d + o + " " + b + e + m + "? Este texto é todo feito em Unicode.");
+            
+            Console.WriteLine($"{xx,6:f2} e {xx:p1}");
+            Console.WriteLine($"{ii,6:c2} e {ii:x1}");
         }
     }
 }
